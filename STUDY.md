@@ -146,4 +146,4 @@ npx shadcn@latest add button card input label
 
 
 ### 오늘 느낀 점
-환경설정도 개발의 일부라는 걸 알았다.
+아무리 ai가 구현을 해줘도 개발자가 구조나 로직을 알고있어야 수정 요청도 할수있다는것을 알았다.
