@@ -17,6 +17,8 @@ React를 공부하기 위해 직접 만드는 식단 관리 앱입니다.
 - JavaScript
 - CSS
 - Git
+- Tailwind CSS
+- shadcn/ui (shadcn/ui는 Tailwind 위에서 동작하는 UI 컴포넌트 라이브러리)
 
 ## Git 커밋 메시지 규칙
 
@@ -26,6 +28,13 @@ React를 공부하기 위해 직접 만드는 식단 관리 앱입니다.
 - refactor: → 코드 개선
 - docs: → 문서 수정
 - chore: → 환경 설정, 예제 제거, 설정 변경
+
+## 주요 기능
+데일리 기록
+- 칼로리
+- 음수량
+- 식단 기록
+- 하루 만족도
 
 ## 기본 기능
 
