@@ -20,12 +20,12 @@ React를 공부하기 위해 직접 만드는 식단 관리 앱입니다.
 
 ## Git 커밋 메시지 규칙
 
-feat: → 새로운 기능
-fix: → 버그 수정
-style: → CSS/UI 변경
-refactor: → 코드 개선
-docs: → 문서 수정
-chore: → 환경 설정, 예제 제거, 설정 변경
+- feat: → 새로운 기능
+- fix: → 버그 수정
+- style: → CSS/UI 변경
+- refactor: → 코드 개선
+- docs: → 문서 수정
+- chore: → 환경 설정, 예제 제거, 설정 변경
 
 ## 기본 기능
 
